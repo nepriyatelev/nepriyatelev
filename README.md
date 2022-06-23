@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋  I'm alexey 
+
+[![codewars](https://www.codewars.com/users/nepriyatelev/badges/large)](https://www.codewars.com/users/nepriyatelev)
 
 <!--
 **nepriyatelev/nepriyatelev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

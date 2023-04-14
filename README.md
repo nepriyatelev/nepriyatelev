@@ -2,6 +2,5 @@
 
 [![codewars](https://www.codewars.com/users/nepriyatelev/badges/large)](https://www.codewars.com/users/nepriyatelev)
 
-![](https://leetcode-stats-six.vercel.app/api?username=nepriyatelev&theme=dark)
+[![leetcode](https://leetcode-stats-six.vercel.app/api?username=nepriyatelev&theme=dark)](https://leetcode.com/nepriyatelev/)
 
-![](https://komarev.com/ghpvc/?username=nepriyatelev)
